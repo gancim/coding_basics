@@ -15,8 +15,10 @@ Example of recursive data structures:
 - Linked List
 - Binary Tree
 
-Tail-recursion: recursive call at the end without any additional operations (i.e. gcd function)
-Augmenting-recursion: recursive call not in tail position. Its result is combined in a deferred way when the last recursive call is completed.
+## Tail vs Augmenting
+
+- Tail-recursion: recursive call at the end without any additional operations (i.e. gcd function)
+- Augmenting-recursion: recursive call not in tail position. Its result is combined in a deferred way when the last recursive call is completed.
 
 ## Algorithms
 
