@@ -6,7 +6,7 @@ Objects that interact with each other classes generate object and define their s
 Hide internal details and describe things in simple terms.
 Achievable with encapsulation and inheritance.
 
-## Encapsulation
+## Encapsulation (set/get)
 Technique used to implement abstraction.
 Different accesses restriction to class and methods.
 
