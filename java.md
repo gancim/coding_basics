@@ -11,7 +11,7 @@ Object-oriented programming language. Platform independent.
 
 ### Java Development Kit (JDK)
 
-Development kit contains tools, executable, binaries and JVM to compile, debug and execute a java application
+Development kit contains tools, executable, binaries and JVM to compile, debug and execute a Java application
 
 ### Java Runtime Edition (JRE)
 
@@ -76,8 +76,8 @@ Inspect and modify runtime behaviour of class, interface, enum, method or field.
 ### Class loader
 
 Loads byte code program into memory when we want to access any class:
-1) bootstrap: jdk classes
-2) extensions: jdk extensions
+1) bootstrap: JDK classes
+2) extensions: JDK extensions
 3) system: classpath
 
 ### Garbage collection
