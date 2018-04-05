@@ -2,9 +2,11 @@
 Combinatorics is a branch of mathematics which is about counting.
 
 Factorials (3 chairs 3 students): is the product of all positive integers less than or equal to n.
+
 For example: `5! = 5 * 4 * 3 * 2 * 1`
 
 Permutations (2 chairs 2 students): act of arranging all the members of a set into some sequence or order.
+
 `nPm = n! / (n-m)!`
 
 Combinations: permutations are used when you select objects and care about their order. However in some problems you don’t care about the order and just want to know how many ways there are to select a certain number of objects from a bigger set.
